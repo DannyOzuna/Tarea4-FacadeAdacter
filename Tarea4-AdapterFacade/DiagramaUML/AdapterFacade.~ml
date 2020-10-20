@@ -1208,10 +1208,10 @@
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">280</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">276</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">400</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">172</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">48</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">120</XPD:ATTR>
 <XPD:REF name="Model">JgaHIRM7TkuXBVgos3joWgAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="fRlHcTp/tECM7Ue109+84QAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="Cmc1jKMZY02UOJy1aBv9HAAA">
@@ -1410,7 +1410,7 @@
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">371,400;380,363</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">374,400;382,363</XPD:ATTR>
 <XPD:REF name="Model">r2BqoyQVqkKGbkrolZKgHAAA</XPD:REF>
 <XPD:REF name="Head">vV4EprSHiEuAIv2bSqugywAA</XPD:REF>
 <XPD:REF name="Tail">gPCqZGjV7UelwbkTHOv4CwAA</XPD:REF>
@@ -1757,8 +1757,14 @@
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="Operations[2]" type="UMLOperation" guid="62xNWN2Ae0as2+zVzCNnjQAA">
-<XPD:ATTR name="Name" type="string">Operation1</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">consultaIntereses</XPD:ATTR>
 <XPD:REF name="Owner">GZWjEvZ/tk+u9Gdm9Hd3dQAA</XPD:REF>
+<XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="YXqQAd5cuUmuwLGV8DECJAAA">
+<XPD:ATTR name="DirectionKind" type="UMLParameterDirectionKind">pdkReturn</XPD:ATTR>
+<XPD:ATTR name="TypeExpression" type="string">void</XPD:ATTR>
+<XPD:REF name="BehavioralFeature">62xNWN2Ae0as2+zVzCNnjQAA</XPD:REF>
+</XPD:OBJ>
 </XPD:OBJ>
 <XPD:ATTR name="#Associations" type="integer">1</XPD:ATTR>
 <XPD:REF name="Associations[0]">FfhYFAttyECqejhau1d6lgAA</XPD:REF>
