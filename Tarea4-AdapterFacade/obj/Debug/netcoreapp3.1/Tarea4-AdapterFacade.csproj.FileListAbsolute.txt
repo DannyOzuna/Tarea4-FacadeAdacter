@@ -1,0 +1,13 @@
+C:\Users\danny\Desktop\Tarea4-AdapterFacade\Tarea4-AdapterFacade\bin\Debug\netcoreapp3.1\Tarea4-AdapterFacade.exe
+C:\Users\danny\Desktop\Tarea4-AdapterFacade\Tarea4-AdapterFacade\bin\Debug\netcoreapp3.1\Tarea4-AdapterFacade.deps.json
+C:\Users\danny\Desktop\Tarea4-AdapterFacade\Tarea4-AdapterFacade\bin\Debug\netcoreapp3.1\Tarea4-AdapterFacade.runtimeconfig.json
+C:\Users\danny\Desktop\Tarea4-AdapterFacade\Tarea4-AdapterFacade\bin\Debug\netcoreapp3.1\Tarea4-AdapterFacade.runtimeconfig.dev.json
+C:\Users\danny\Desktop\Tarea4-AdapterFacade\Tarea4-AdapterFacade\bin\Debug\netcoreapp3.1\Tarea4-AdapterFacade.dll
+C:\Users\danny\Desktop\Tarea4-AdapterFacade\Tarea4-AdapterFacade\bin\Debug\netcoreapp3.1\Tarea4-AdapterFacade.pdb
+C:\Users\danny\Desktop\Tarea4-AdapterFacade\Tarea4-AdapterFacade\obj\Debug\netcoreapp3.1\Tarea4-AdapterFacade.csprojAssemblyReference.cache
+C:\Users\danny\Desktop\Tarea4-AdapterFacade\Tarea4-AdapterFacade\obj\Debug\netcoreapp3.1\Tarea4-AdapterFacade.AssemblyInfoInputs.cache
+C:\Users\danny\Desktop\Tarea4-AdapterFacade\Tarea4-AdapterFacade\obj\Debug\netcoreapp3.1\Tarea4-AdapterFacade.AssemblyInfo.cs
+C:\Users\danny\Desktop\Tarea4-AdapterFacade\Tarea4-AdapterFacade\obj\Debug\netcoreapp3.1\Tarea4-AdapterFacade.csproj.CoreCompileInputs.cache
+C:\Users\danny\Desktop\Tarea4-AdapterFacade\Tarea4-AdapterFacade\obj\Debug\netcoreapp3.1\Tarea4-AdapterFacade.dll
+C:\Users\danny\Desktop\Tarea4-AdapterFacade\Tarea4-AdapterFacade\obj\Debug\netcoreapp3.1\Tarea4-AdapterFacade.pdb
+C:\Users\danny\Desktop\Tarea4-AdapterFacade\Tarea4-AdapterFacade\obj\Debug\netcoreapp3.1\Tarea4-AdapterFacade.genruntimeconfig.cache
